@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "strict": true
+  },
+  "exclude": ["index.d.ts"]
+}

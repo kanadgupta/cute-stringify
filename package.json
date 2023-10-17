@@ -1,0 +1,15 @@
+{
+  "name": "cute-stringify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "keywords": [],
+  "author": "Kanad Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
