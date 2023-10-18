@@ -5,5 +5,5 @@
     "emitDeclarationOnly": true,
     "strict": true
   },
-  "exclude": ["index.d.ts"]
+  "exclude": ["index.d.ts", "index.d.cts"]
 }
