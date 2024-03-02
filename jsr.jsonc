@@ -1,7 +1,7 @@
 {
   "name": "@kanad/cute-stringify",
   "description": "Takes your input and makes it cute 💅🏽",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "exports": "./index.js",
   "exclude": ["index.cjs", "index.d.cts"]
 }

@@ -1,6 +1,6 @@
 {
   "name": "cute-stringify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Takes your input and makes it cute 💅🏽💅🏽",
   "type": "module",
   "main": "index.js",
