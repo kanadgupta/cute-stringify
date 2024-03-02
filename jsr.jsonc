@@ -1,0 +1,6 @@
+{
+  "name": "@kanad/cute-stringify",
+  "version": "0.0.2",
+  "exports": "./index.js",
+  "exclude": ["index.cjs", "index.d.cts"]
+}
