@@ -1,6 +1,6 @@
 {
-  "name": "cute-stringify",
-  "version": "0.0.3",
+  "name": "@kanadgupta/cute-stringify",
+  "version": "0.0.4",
   "description": "Takes your input and makes it cute 💅🏽💅🏽",
   "type": "module",
   "main": "index.js",
@@ -14,6 +14,10 @@
   "keywords": [],
   "author": "Kanad Gupta",
   "license": "ISC",
+  "repository":"https://github.com/kanadgupta/cute-stringify",
+  "publishConfig": {
+    "@kanadgupta:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "typescript": "^5.2.2"
   }
