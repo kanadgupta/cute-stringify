@@ -14,9 +14,9 @@
   "keywords": [],
   "author": "Kanad Gupta",
   "license": "ISC",
-  "repository":"https://github.com/kanadgupta/cute-stringify",
-  "publishConfig": {
-    "@kanadgupta:registry": "https://npm.pkg.github.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanadgupta/cute-stringify.git"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
