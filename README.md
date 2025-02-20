@@ -12,6 +12,9 @@ npm install cute-stringify
 npx jsr add @kanad/cute-stringify
 deno add @kanad/cute-stringify
 bunx jsr add @kanad/cute-stringify
+
+# GitHub Packages registry
+npm install @kanadgupta/cute-stringify
 ```
 
 ## Usage
@@ -19,6 +22,7 @@ bunx jsr add @kanad/cute-stringify
 ```js
 import cuteStringify from "cute-stringify"; // npm
 // import cuteStringify from "@kanad/cute-stringify"; // JSR
+// import cuteStringify from "@kanadgupta/cute-stringify"; // github packages
 
 console.log(cuteStringify("esm"));
 ```
